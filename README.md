@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are TimeWiseSolutions based in Brisbane, Australia</h1>
-<h3 align="center">We are passionate about Software services in frontend, backend and blockchain solutions.</h3>
+<h3 align="center">We are passionate about Software services in frontend, backend using AI and blockchain solutions.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/timewisesolutions](https://github.com/timewisesolutions)
 
